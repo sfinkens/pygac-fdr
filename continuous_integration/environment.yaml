@@ -1,7 +1,8 @@
-name: test-environment
+name: pygac-fdr
 channels:
   - conda-forge
 dependencies:
+  - python=3.8
   - udunits2
   - pip
   - setuptools_scm
